@@ -24,12 +24,15 @@ myProject
     measures.py
     Pendolum_Model.py
     pid_model.py
+    Report_DavideRoznowicz.pdf
     README.md
 ```
 
 
 * In [main.ipynb](/main.ipynb) we can find the notebook going step by step through the project
 and giving some explanations while showing the relevant implementation detials.
+
+* In [Report_DavideRoznowicz.pdf](/Report_DavideRoznowicz.pdf) we can find the final report.
 
 
 
